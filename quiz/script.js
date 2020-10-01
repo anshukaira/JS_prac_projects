@@ -35,26 +35,6 @@ var question = [{
     choice : ["babylus", "mha", "demon-aca", "as high school"],
     correct : 1
 }, {
-    ques : "",
-    choice : ["babylus", "mha", "demon-aca", "jij"],
-    correct : 1
-}, {
-    ques : "What is the name of akuma gakou?",
-    choice : ["babylus", "mha", "demon-aca", "jij"],
-    correct : 1
-}, {
-    ques : "What is the name of akuma gakou?",
-    choice : ["babylus", "mha", "demon-aca", "jij"],
-    correct : 1
-}, {
-    ques : "What is the name of akuma gakou?",
-    choice : ["babylus", "mha", "demon-aca", "jij"],
-    correct : 1
-}, {
-    ques : "What is the name of akuma gakou?",
-    choice : ["babylus", "mha", "demon-aca", "jij"],
-    correct : 1
-}, {
     ques : "Whats sur name of luffy?",
     choice : ["donkey", "lion", "doggy", "monkey"],
     correct : 4
