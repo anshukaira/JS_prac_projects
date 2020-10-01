@@ -7,7 +7,7 @@ var question = [{
     choice : ["edward elric", "alphonse elric", "ida elric", "winry elric"],
     correct : 3 
 }, {
-    ques : "What is the name of devil school in 'welcome to the demon shool iruma kin'?",
+    ques : "What is the name of devil school in 'welcome to the demon shool iruma kun'?",
     choice : ["babylus", "mha", "demon-aca", "as high school"],
     correct : 1
 }, {
