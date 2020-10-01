@@ -27,14 +27,6 @@ var question = [{
     choice : ["Put your head fwd nd arms back", "Put ur left foot in, ur left foot out", "Just turn around", "Jump four times nd run"],
     correct : 1
 }, {
-    ques : "what is the name of fullmetal alchemist",
-    choice : ["edward elric", "alphonse elric", "ida elric", "winry elric"],
-    correct : 3 
-}, {
-    ques : "What is the name of devil school in 'welcome to the demon shool iruma kun'?",
-    choice : ["babylus", "mha", "demon-aca", "as high school"],
-    correct : 1
-}, {
     ques : "Whats sur name of luffy?",
     choice : ["donkey", "lion", "doggy", "monkey"],
     correct : 4
