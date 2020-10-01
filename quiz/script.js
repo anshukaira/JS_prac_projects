@@ -1,11 +1,31 @@
 var question = [{
     ques : "What is the name of Water Hashira?",
-    choice : ["giyu", "tanjiro", "zenitsu", "chick"],
+    choice : ["giyu", "tanjiro", "zenitsu", "haru"],
     correct : 1
 }, {
-    ques : "What is the name of insect Hashira?",
-    choice : ["giyu", "tanjiro", "purple head", "chick"],
+    ques : "what is the name of fullmetal alchemist",
+    choice : ["edward elric", "alphonse elric", "ida elric", "winry elric"],
     correct : 3 
+}, {
+    ques : "What is the name of devil school in 'welcome to the demon shool iruma kin'?",
+    choice : ["babylus", "mha", "demon-aca", "as high school"],
+    correct : 1
+}, {
+    ques : "",
+    choice : ["babylus", "mha", "demon-aca", "jij"],
+    correct : 1
+}, {
+    ques : "What is the name of akuma gakou?",
+    choice : ["babylus", "mha", "demon-aca", "jij"],
+    correct : 1
+}, {
+    ques : "What is the name of akuma gakou?",
+    choice : ["babylus", "mha", "demon-aca", "jij"],
+    correct : 1
+}, {
+    ques : "What is the name of akuma gakou?",
+    choice : ["babylus", "mha", "demon-aca", "jij"],
+    correct : 1
 }, {
     ques : "What is the name of akuma gakou?",
     choice : ["babylus", "mha", "demon-aca", "jij"],
