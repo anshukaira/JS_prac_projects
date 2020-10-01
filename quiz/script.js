@@ -1,15 +1,39 @@
 var question = [{
-    ques : "What is the name of Water Hashira?",
-    choice : ["giyu", "tanjiro", "zenitsu", "chick"],
+    ques : "Ok! Here's an easy one to start off with. What do you have to do with Pokemon?",
+    choice : ["Fetch 'em all!", "Catch 'em all!", "Match 'em all!", "Train 'em all!"],
+    correct : 2
+}, {
+    ques : "What is the name of Water Hashira? (kakoiii ne)",
+    choice : ["Giyu", "Tanjiro", "Zenitsu", "Shinobu"],
     correct : 1
 }, {
-    ques : "What is the name of insect Hashira?",
-    choice : ["giyu", "tanjiro", "purple head", "chick"],
+    ques : "what is the name of fullmetal alchemist, yeah that chibi!",
+    choice : ["Edward elric", "Alphonse elric", "Harry elric", "Winry elric"],
     correct : 3 
 }, {
-    ques : "What is the name of akuma gakou?",
-    choice : ["babylus", "mha", "demon-aca", "jij"],
+    ques : "What is the name of devil school in 'welcome to the demon shool iruma kun'?",
+    choice : ["Babylus", "Mha", "Demon-aca", "A high school"],
     correct : 1
+}, {
+    ques : "When is Bakugo's birthday??",
+    choice : ["july 20", "april 20", "may 20", "august 20"],
+    correct : 2
+}, {
+    ques : " who is the Pokemon Anime’s main character?",
+    choice : ["Misty", "Ash", "Brock", "Jojo"],
+    correct : 2
+}, {
+    ques : "How do you do a Naruto run?",
+    choice : ["Put your head fwd nd arms back", "Put ur left foot in, ur left foot out", "Just turn around", "Jump four times nd run"],
+    correct : 1
+}, {
+    ques : "Whats sur name of luffy?",
+    choice : ["donkey", "lion", "doggy", "monkey"],
+    correct : 4
+}, {
+    ques : "How many dragons are there in yona of the dawn",
+    choice : ["6", "5", "4", "3"],
+    correct : 3
 }];
 
 var curr = 0;
